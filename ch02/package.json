@@ -1,14 +1,15 @@
 {
   "name": "ch02",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Diego Langeveldt",
   "license": "ISC",
+  "keywords": [],
+  "description": "",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.19.2"
   }
 }
