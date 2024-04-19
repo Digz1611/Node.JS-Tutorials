@@ -6,7 +6,7 @@
   "scripts": {
     "start": "nodemon main.js"
   },
-  "author": "Pierre Jonker",
+  "author": "Diego Langeveldt",
   "license": "ISC",
   "dependencies": {
     "ejs": "^3.1.10",
