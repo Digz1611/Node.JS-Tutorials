@@ -5,11 +5,11 @@ const ejs = require('ejs');
 const mongoose = require('mongoose');
 const bodyParser = require('body-parser');
 const fileUpload = require('express-fileupload');
-const newPostController = require('./controllers/newPost');
-const homeController = require('./controllers/home');
-const storePostController = require('./controllers/storePost');
-const getPostController = require('./controllers/getPost');
-const validateMiddleWare = require('./middleware/validationMiddleware');
+// const newPostController = require('./controllers/newPost');
+// const homeController = require('./controllers/home');
+// const storePostController = require('./controllers/storePost');
+// const getPostController = require('./controllers/getPost');
+// const validateMiddleWare = require('./middleware/validationMiddleware');
 
 app.use(fileUpload());
 
